@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\01. SimpleForm\\01. SimpleForm.csproj": {}
+    "D:\\Programming\\C#\\Компьютерная графика\\01. SimpleForm\\01. SimpleForm.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\01. SimpleForm\\01. SimpleForm.csproj": {
+    "D:\\Programming\\C#\\Компьютерная графика\\01. SimpleForm\\01. SimpleForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\01. SimpleForm\\01. SimpleForm.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Компьютерная графика\\01. SimpleForm\\01. SimpleForm.csproj",
         "projectName": "01. SimpleForm",
-        "projectPath": "D:\\Programming\\C#\\01. SimpleForm\\01. SimpleForm.csproj",
+        "projectPath": "D:\\Programming\\C#\\Компьютерная графика\\01. SimpleForm\\01. SimpleForm.csproj",
         "packagesPath": "C:\\Users\\ColorKat\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\01. SimpleForm\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\Компьютерная графика\\01. SimpleForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programs\\Visual Studio Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\C#\\01. SimpleForm\\",
+  "WorkspaceRootPath": "D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|d:\\programming\\c#\\01. simpleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|d:\\programming\\c#\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. simpleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|d:\\programming\\c#\\01. simpleform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|d:\\programming\\c#\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. simpleform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|d:\\programming\\c#\\01. simpleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11FF7BE9-1656-4281-9938-EF8B4E7B97EE}|01. SimpleForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,17 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\01. SimpleForm\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\01. SimpleForm\\Form1.cs",
+              "ToolTip": "D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T11:10:41.828Z",
               "EditorCaption": ""
@@ -41,30 +45,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\01. SimpleForm\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Programming\\C#\\01. SimpleForm\\Program.cs",
+              "ToolTip": "D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:06:20.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T11:06:20.84Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Programming\\C#\\01. SimpleForm\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\01. SimpleForm\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Programming\\C#\\01. SimpleForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\01. SimpleForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:06:00.447Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-02-19T11:06:00.447Z"
             }
           ]
         }
