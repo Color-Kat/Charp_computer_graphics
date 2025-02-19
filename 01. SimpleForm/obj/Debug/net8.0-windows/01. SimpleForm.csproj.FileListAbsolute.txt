@@ -1,0 +1,16 @@
+D:\Programming\C#\01. SimpleForm\bin\Debug\net8.0-windows\01. SimpleForm.exe
+D:\Programming\C#\01. SimpleForm\bin\Debug\net8.0-windows\01. SimpleForm.deps.json
+D:\Programming\C#\01. SimpleForm\bin\Debug\net8.0-windows\01. SimpleForm.runtimeconfig.json
+D:\Programming\C#\01. SimpleForm\bin\Debug\net8.0-windows\01. SimpleForm.dll
+D:\Programming\C#\01. SimpleForm\bin\Debug\net8.0-windows\01. SimpleForm.pdb
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\_01._SimpleForm.Form1.resources
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.csproj.GenerateResource.cache
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.AssemblyInfoInputs.cache
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.AssemblyInfo.cs
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.csproj.CoreCompileInputs.cache
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.dll
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\refint\01. SimpleForm.dll
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.pdb
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\01. SimpleForm.genruntimeconfig.cache
+D:\Programming\C#\01. SimpleForm\obj\Debug\net8.0-windows\ref\01. SimpleForm.dll
