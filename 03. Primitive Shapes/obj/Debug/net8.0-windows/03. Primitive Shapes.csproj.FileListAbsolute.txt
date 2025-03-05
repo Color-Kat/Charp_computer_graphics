@@ -1,0 +1,33 @@
+D:\Programming\C#\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.exe
+D:\Programming\C#\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.deps.json
+D:\Programming\C#\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.runtimeconfig.json
+D:\Programming\C#\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.dll
+D:\Programming\C#\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.pdb
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\_03._Primitive_Shapes.Form1.resources
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.csproj.GenerateResource.cache
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.AssemblyInfoInputs.cache
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.AssemblyInfo.cs
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.dll
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\refint\03. Primitive Shapes.dll
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.pdb
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.genruntimeconfig.cache
+D:\Programming\C#\03. Primitive Shapes\obj\Debug\net8.0-windows\ref\03. Primitive Shapes.dll
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.exe
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.deps.json
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.runtimeconfig.json
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.dll
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\bin\Debug\net8.0-windows\03. Primitive Shapes.pdb
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\_03._Primitive_Shapes.Form1.resources
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.csproj.GenerateResource.cache
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.AssemblyInfoInputs.cache
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.AssemblyInfo.cs
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.sourcelink.json
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.dll
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\refint\03. Primitive Shapes.dll
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.pdb
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\03. Primitive Shapes.genruntimeconfig.cache
+D:\Programming\C#\Компьютерная графика\03. Primitive Shapes\obj\Debug\net8.0-windows\ref\03. Primitive Shapes.dll
